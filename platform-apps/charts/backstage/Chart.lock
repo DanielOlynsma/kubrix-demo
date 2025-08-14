@@ -1,0 +1,9 @@
+dependencies:
+- name: backstage
+  repository: https://backstage.github.io/charts
+  version: 2.6.0
+- name: cluster
+  repository: https://cloudnative-pg.github.io/charts
+  version: 0.3.1
+digest: sha256:73e159e7cf30955e8c10f62d6acad69e792bef8ef5762ce4e04dbcdd0a49c44e
+generated: "2025-07-09T20:43:52.141623884Z"
